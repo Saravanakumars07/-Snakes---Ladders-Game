@@ -78,7 +78,7 @@ function App() {
   return (
     <div className="page">
       <div className="card">
-        <h1>Snakes &amp; Ladders</h1>
+        <h1>Snake &amp; Ladders</h1>
         <p className="subtitle">Exact 100 is required to win. Land on a ladder to climb up, a snake to slide down.</p>
 
         <div className="players">
